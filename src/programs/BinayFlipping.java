@@ -12,9 +12,9 @@ public class BinayFlipping {
         long zerosCount = Arrays.stream(arr).filter( a -> a==0).count();
 
         if(onesCount > zerosCount) {
-            //convert zeros to one and check if valid
+            //convert zeros to one and check if valid.
         } else {
-            //convert ones to zeros and check if valid
+            //convert ones to zeros and check if valid.
         }
     }
 
